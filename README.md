@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋🎮
+# Hi there, I'm Patriot Abdii 🎮
 
 ## 🚀 Game Developer | 🎨 3D Artist | 🏞 Environment Designer
 
@@ -39,10 +39,8 @@ I’m a passionate **game programmer** specializing in **Unity**, combined with 
 ### 📫 **Let’s Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/yourprofile)  
-
-💬 **Let’s chat about game dev, 3D art, or collabs!** 🚀
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aya_thelearning)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paatriot_7/)  
 
 
 
