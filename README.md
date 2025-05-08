@@ -1,6 +1,6 @@
 # Hi there, I'm Patriot Abdii 🎮
 
-## 🚀 Game Developer | 🎨 3D Artist | 🏞 Environment Designer
+## 🚀 Unity Developer | 🎨 3D Model | 🏞 UI Designer
 
 Nama saya Patriot Abdi Nuruzzaki. Saya berusia 18 tahun. Saya seorang fresh graduate dari SMKN 1 Cirebon dengan mengambil fokus jurusan Pengembangan Perangkat Lunak Dan Gim. Saya seprang Pengembang game junior yang bersemangat dengan pengalaman membuat game 2D/3D menggunakan Construct 3 dan Unity. Pembelajar yang cepat, mudah beradaptasi, dan bersemangat untuk berkontribusi pada proyek game. Nyaman bekerja secara individu atau sebagai bagian dari tim.
 
@@ -9,7 +9,7 @@ Nama saya Patriot Abdi Nuruzzaki. Saya berusia 18 tahun. Saya seorang fresh grad
 ### 🎯 **Apa Yang Aku lakukan:**
 
 - 🎮 **Game Development** – C#, Unity Engine, Game Mechanics
-- 🎭 **3D Modeling** – Blender, Substance Painter, Low/High Poly Models
+- 🎭 **3D Modeling** – Blender, Low/High Poly Models
 - 🔥 **Game Designer** – Making Creative and Stunning concept
 - 📔 **Game Naration** – I Love making naration for game.
 - 🔎 **Game Research – I Love research and learning from another cool games.
